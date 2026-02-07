@@ -12,6 +12,7 @@ AI agent skills for end-to-end Salesforce solution architecture — from busines
 | 4 | **sf-org-analyzer** | Inventory an org's current state, gap analysis vs target |
 | 5 | **sf-config-executor** | Execute configuration tasks in a Salesforce org |
 | 6 | **sf-test-validator** | Verify implementations match design and acceptance criteria |
+| 7 | **sf-flow-builder** | Build and modify Salesforce Flows via browser automation |
 
 ## Pipeline
 
